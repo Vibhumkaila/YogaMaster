@@ -1,2 +1,1 @@
-# YogaMaster
- Your AI Yoga Trianer
+# YogaMaster---AI-Yoga-Trainer# YogaAI_Trainer
